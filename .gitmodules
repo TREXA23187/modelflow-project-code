@@ -1,3 +1,6 @@
 [submodule "0049-admin"]
 	path = 0049-admin
 	url = https://github.com/TREXA23187/0049-admin.git
+[submodule "0049-server-go"]
+	path = 0049-server-go
+	url = https://github.com/TREXA23187/0049-server-go.git
