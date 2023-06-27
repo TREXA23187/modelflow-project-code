@@ -7,3 +7,6 @@
 [submodule "0049-app"]
 	path = 0049-app
 	url = https://github.com/TREXA23187/0049-app.git
+[submodule "0049-server-flask"]
+	path = 0049-server-flask
+	url = https://github.com/TREXA23187/0049-server-flask.git
